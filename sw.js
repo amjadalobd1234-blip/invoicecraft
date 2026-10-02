@@ -1,11 +1,9 @@
 /* InvoiceCraft — Service Worker: makes the app work offline after the first visit.
    Bump CACHE when you change any file so users get the update. */
-const CACHE = 'invoicecraft-v1';
+const CACHE = 'invoicecraft-v2';
 const CORE = [
   './', './index.html', './style.css', './app.js', './icon.svg', './manifest.webmanifest',
   './lib/jspdf.umd.min.js', './lib/html2canvas.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js',
   'https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap'
 ];
 

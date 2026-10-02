@@ -1,0 +1,245 @@
+=====================================================================
+  INVOICECRAFT — QUICK START GUIDE  |  دليل البدء السريع
+=====================================================================
+
+Thank you for your purchase! This guide is written for everyone —
+no technical knowledge needed. Just follow the steps.
+
+شكراً لشرائك! هذا الدليل مكتوب للجميع — لا تحتاج أي خبرة تقنية.
+فقط اتبع الخطوات.
+
+
+---------------------------------------------------------------------
+ 1. HOW TO OPEN THE ZIP FILE  |  كيف تفتح ملف ZIP
+---------------------------------------------------------------------
+
+WINDOWS
+  1. Find the file you downloaded (usually in "Downloads").
+  2. Right-click it  ->  "Extract All..."  ->  "Extract".
+  3. A normal folder named "invoicecraft" appears. Open it.
+
+MAC
+  1. Double-click the ZIP file. The folder is created next to it.
+  2. Open the "invoicecraft" folder.
+
+PHONE (Android)
+  1. Open the "Files" app  ->  Downloads  ->  tap the ZIP file.
+  2. Tap "Extract" (or "Unzip") and choose a place to save it.
+
+PHONE (iPhone / iPad)
+  1. Open the "Files" app  ->  Downloads  ->  tap the ZIP file.
+  2. The folder is created right away. Tap it to open.
+  (Tip: for the best phone experience, put the folder online first —
+   see step 8 — then install it as an app, see step 3.)
+
+بالعربية:
+  ويندوز: كليك يمين على الملف ← «استخراج الكل» ← «استخراج».
+  ماك: انقر مرتين على الملف وسيظهر المجلد.
+  أندرويد: تطبيق «الملفات» ← التنزيلات ← اضغط على الملف ← «استخراج».
+  آيفون: تطبيق «الملفات» ← التنزيلات ← اضغط على الملف.
+
+
+---------------------------------------------------------------------
+ 2. HOW TO RUN IT  |  كيف تشغّل البرنامج
+---------------------------------------------------------------------
+
+  1. Open the extracted "invoicecraft" folder.
+  2. Double-click the file named  index.html
+  3. It opens in your browser (Chrome, Edge, Safari or Firefox).
+  4. That's it — you can create invoices right away!
+
+  Your data is saved inside YOUR browser only. Nothing is uploaded.
+
+  NOTE: Opening index.html directly works great. A few extras
+  (installing as an app, full offline mode) need the files to be on a
+  website — see step 8 (it's free and takes 2 minutes).
+
+بالعربية:
+  افتح المجلد ثم انقر مرتين على الملف index.html فيفتح في المتصفح.
+  بياناتك تُحفظ في متصفحك فقط ولا تُرفع إلى أي مكان.
+  ملاحظة: بعض المزايا (تثبيت التطبيق والعمل دون إنترنت بالكامل) تحتاج
+  إلى رفع الملفات على موقع — راجع الخطوة 8 (مجاني ويستغرق دقيقتين).
+
+
+---------------------------------------------------------------------
+ 3. HOW TO INSTALL IT AS A PHONE / DESKTOP APP  |  تثبيته كتطبيق
+---------------------------------------------------------------------
+
+  (Requires the files to be hosted online — see step 8.)
+
+ANDROID (Chrome)
+  1. Open your InvoiceCraft website address in Chrome.
+  2. Tap the menu (three dots) at the top right.
+  3. Tap "Install app" (or "Add to Home screen").
+  4. Confirm. The InvoiceCraft icon appears on your home screen.
+
+IPHONE / IPAD (Safari)
+  1. Open your InvoiceCraft website address in SAFARI.
+  2. Tap the Share button (the square with an arrow pointing up).
+  3. Scroll down and tap "Add to Home Screen".
+  4. Tap "Add". Done!
+
+COMPUTER (Chrome / Edge)
+  Click the small "Install" icon at the right end of the address bar.
+
+بالعربية:
+  أندرويد (كروم): القائمة (ثلاث نقاط) ← «تثبيت التطبيق».
+  آيفون (سفاري): زر المشاركة ← «إضافة إلى الشاشة الرئيسية» ← «إضافة».
+
+
+---------------------------------------------------------------------
+ 4. USING SAVED CLIENTS (save time on repeat invoices)
+    استخدام العملاء المحفوظين (وفّر وقتك في الفواتير المتكررة)
+---------------------------------------------------------------------
+
+  Find the "Saved Clients" section above "Bill To"
+  (in Arabic: "العملاء المحفوظون"). Tap its title to open it.
+
+  ADD A CLIENT
+    - Tap "+ Add new client", fill in the details, tap "Save".
+
+  AUTOMATIC SAVING
+    - After you download a PDF for a NEW client, InvoiceCraft asks:
+      "Save this client for future use?"
+        Yes, save        -> the client is saved
+        No, thanks       -> nothing is saved this time
+        Don't ask again  -> stops asking (you can turn the question
+                            back on with the checkbox in the section)
+
+  USE A CLIENT
+    - Tap "Use" next to the client. Name, company, email, phone and
+      address are filled in for you. Your invoice items stay the same.
+
+  EDIT / DELETE
+    - Pencil icon = edit.   Trash icon = delete (it asks you first).
+
+  SEARCH
+    - Type a name, company or email in the search box.
+
+  BACK UP OR MOVE YOUR CLIENTS
+    - "Export clients" downloads a file named
+      invoicecraft-clients-DATE.json  (keep it somewhere safe).
+    - "Import clients" loads such a file on another browser or
+      computer. Clients with an email you already have are skipped, so
+      nothing gets duplicated.
+
+بالعربية:
+  ستجد قسم «العملاء المحفوظون» فوق «فاتورة إلى». اضغط على العنوان لفتحه.
+  - «+ إضافة عميل جديد» لإضافة عميل يدوياً.
+  - بعد تحميل PDF لعميل جديد سيسألك البرنامج: «حفظ هذا العميل للاستخدام
+    المستقبلي؟» اختر «نعم، احفظ» أو «لا، شكراً» أو «لا تسأل مرة أخرى».
+  - «استخدم» يملأ بيانات العميل في الفاتورة مع بقاء البنود كما هي.
+  - ✏️ للتعديل و 🗑️ للحذف (مع تأكيد).
+  - «تصدير العملاء» ينشئ نسخة احتياطية، و«استيراد العملاء» يعيدها
+    (يتم تخطي العملاء المكررين حسب البريد الإلكتروني).
+
+
+---------------------------------------------------------------------
+ 5. USING SERVICE TEMPLATES  |  استخدام قوالب الخدمات
+---------------------------------------------------------------------
+
+  Do you sell the same services again and again? Save them once!
+
+  SAVE A SERVICE (2 ways)
+    A) In "Line Items", tap "Saved services", then
+       "+ Add new service". Enter the name, price and quantity.
+    B) Type a description in any item row. A small STAR appears at
+       the end of the field. Tap the star to save it.
+       (A filled star means it is already saved. Tap it again to
+       update its price.)
+
+  USE A SERVICE
+    - Tap "Saved services", then tap the service you want.
+      It is added to your invoice with its price and quantity —
+      you can still change anything.
+
+  The most-used services always appear first in the list.
+
+بالعربية:
+  في قسم «البنود» اضغط «الخدمات المحفوظة» ثم «+ إضافة خدمة جديدة».
+  أو اكتب وصف أي بند وستظهر نجمة صغيرة — اضغطها لحفظ الخدمة.
+  لاستخدام خدمة: «الخدمات المحفوظة» ← اضغط على الخدمة فتُضاف للفاتورة.
+
+
+---------------------------------------------------------------------
+ 6. SHARING YOUR INVOICE  |  مشاركة الفاتورة
+---------------------------------------------------------------------
+
+  Below the "Download PDF" button there are 3 share buttons:
+
+    WhatsApp    Opens WhatsApp with a ready message (Arabic + English)
+                with the invoice number and total. Choose the contact.
+    Gmail       Opens your email app with a ready email to your client.
+                (If the client has no email, the text is copied so you
+                 can paste it anywhere.)
+    Copy image  Copies the invoice as a picture — paste it into a chat
+                or email. (If your browser can't copy images, the
+                picture is downloaded instead.)
+
+  Tip: for the PDF itself, tap "Download PDF" first, then attach it.
+
+بالعربية:
+  تحت زر «تحميل PDF» ثلاثة أزرار: واتساب، جيميل، ونسخ كصورة.
+
+
+---------------------------------------------------------------------
+ 7. HOW TO USE IT OFFLINE  |  العمل دون إنترنت
+---------------------------------------------------------------------
+
+  - Opening index.html from your computer already works with no
+    internet at all (everything is inside the folder).
+  - If you host it online (step 8), open the website ONCE while
+    connected. After that it also works offline, and as an installed
+    app, because it remembers its files.
+  - After updating the files, open the site once while online to
+    receive the update.
+
+بالعربية:
+  فتح index.html من جهازك يعمل بدون إنترنت. وإذا رفعته على موقع، افتحه مرة
+  واحدة مع الاتصال بالإنترنت وبعدها يعمل دون إنترنت أيضاً.
+
+
+---------------------------------------------------------------------
+ 8. WHERE TO HOST IT (free)  |  أين تستضيفه (مجاناً)
+---------------------------------------------------------------------
+
+  NETLIFY (easiest — no account tricks)
+    1. Go to  app.netlify.com/drop
+    2. Drag the whole "invoicecraft" folder onto the page.
+    3. You get a website address in seconds.
+
+  GITHUB PAGES
+    1. Create a free account at github.com and a new repository.
+    2. Upload all the files (keep the "lib" folder!).
+    3. Settings -> Pages -> Source: "Deploy from a branch" -> main.
+    4. Your site appears at  your-name.github.io/your-repo
+
+  VERCEL
+    1. Create a free account at vercel.com.
+    2. "Add New" -> "Project" -> upload or import the folder.
+    3. Click "Deploy".
+
+  Important: keep the folder structure exactly as it is (index.html
+  next to style.css, app.js, sw.js and the "lib" folder).
+
+بالعربية:
+  نتليفاي: ادخل app.netlify.com/drop واسحب المجلد كاملاً.
+  جيت هب بيجز: ارفع الملفات في مستودع ثم Settings ← Pages.
+  فيرسل: أنشئ مشروعاً جديداً وارفع المجلد ثم Deploy.
+  مهم: لا تغيّر ترتيب الملفات ولا اسم مجلد lib.
+
+
+---------------------------------------------------------------------
+ 9. SUPPORT  |  الدعم
+---------------------------------------------------------------------
+
+  Email:  amjad.python.dev@yandex.com
+  We reply within 24 hours.
+  14-day money-back guarantee — just email us.
+
+  البريد: amjad.python.dev@yandex.com — نرد خلال 24 ساعة.
+  ضمان استرداد الأموال لمدة 14 يوماً.
+
+  Please read LICENSE.txt for what you can and can't do with the files.
+
+  Enjoy InvoiceCraft!  استمتع بـ InvoiceCraft!
